@@ -1,30 +1,162 @@
-<h1 align="center">Hi 👋, I'm Theertha N</h1>
-<h3 align="center">AI Engineer | Data Science | Machine Learning | Python</h3>
+# 👋 Hi, I'm Theertha N
 
-- 🔭 I’m currently working on [AI Engineering Learning Projects](https://github.com/N-Theertha/Rubixe-Projects)
+### 🤖 AI Engineer | Data Science | Machine Learning | Python
 
-- 🌱 I’m currently learning **Python, Machine Learning, Deep Learning, NLP, Generative AI & AI Engineering**
+I'm an aspiring **AI Engineer and Data Science professional** passionate about building practical AI and machine learning solutions. I enjoy working with data, developing ML models, exploring Generative AI, and continuously improving my Python and AI engineering skills.
 
-- 👯 I’m looking to collaborate on [AI & Machine Learning Projects](https://github.com/N-Theertha)
+* 🔭 I'm currently working on **AI Engineering learning projects**
+* 🌱 I'm currently learning **Python, Machine Learning, Deep Learning, NLP, Generative AI & AI Engineering**
+* 🤝 I'm looking to collaborate on **AI, Machine Learning and Data Science projects**
+* 👨‍💻 My projects are available on my **[Portfolio](https://portfolio.theerthapraveen311.workers.dev/)**
+* 💬 Ask me about **Python, Machine Learning, Data Science, AI & Data Analysis**
+* 📚 Currently focused on strengthening my **Python and AI Engineering fundamentals**
+* ⚡ Fun fact: I enjoy turning data into practical AI solutions 🤖
 
-- 👨‍💻 All of my projects are available at [https://portfolio.theerthapraveen311.workers.dev/](https://portfolio.theerthapraveen311.workers.dev/)
+---
 
-- 💬 Ask me about **Python, Machine Learning, Data Science, AI & Data Analysis**
+## 🌐 Connect With Me
 
-- 📫 How to reach me **n.theerthaa@gmail.com**
-
-- ⚡ Fun fact **I enjoy turning data into practical AI solutions 🤖**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/theertha-n-9b44b3308" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="theertha-n-9b44b3308" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/theertha-n-9b44b3308" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:n.theerthaa@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://portfolio.theerthapraveen311.workers.dev/" target="_blank">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" />
+</a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=n-theertha&show_icons=true&locale=en&layout=compact" alt="n-theertha" /></p>
+## 🧠 Tech Stack
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=n-theertha&show_icons=true&locale=en" alt="n-theertha" /></p>
+### 👨‍💻 Programming & Data
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=n-theertha&" alt="n-theertha" /></p>
+<p align="left">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+</p>
+
+### 🤖 AI & Machine Learning
+
+<p align="left">
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
+</p>
+
+### 📊 Data Science
+
+<p align="left">
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white"/>
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
+</p>
+
+### 🛠️ Tools & Technologies
+
+<p align="left">
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+</p>
+
+### 🌐 Web & Databases
+
+<p align="left">
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 🏠 Advanced House Price Prediction
+
+Machine learning project involving exploratory data analysis, preprocessing, feature engineering, model comparison and hyperparameter optimization.
+
+**Technologies:** Python • Pandas • NumPy • Scikit-learn • Regression • GridSearchCV
+
+### 🏦 Hausla Home Loan Risk Prediction
+
+Machine learning project focused on analyzing home-loan risk using data preprocessing and predictive modeling.
+
+**Technologies:** Python • Pandas • Scikit-learn • XGBoost • Machine Learning
+
+### 🤖 AI & Data Science Projects
+
+A collection of AI and data science projects developed during my learning journey and professional internship experience.
+
+👉 **[View All Projects](https://portfolio.theerthapraveen311.workers.dev/)**
+
+---
+
+## 💼 Experience
+
+### AI Engineer Intern — Rubixe
+
+Worked on AI development and machine learning-oriented projects, with exposure to chatbot development and NLP concepts.
+
+### Data Scientist Intern — Syntecxhub
+
+Worked on data science and machine learning projects involving data analysis and predictive modeling.
+
+### Data Analytics Job Simulation — Deloitte
+
+Completed a practical data analytics job simulation involving data analysis and business-focused problem solving.
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=N-Theertha&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=N-Theertha&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=N-Theertha&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 📊 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=N-Theertha&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+## ✍️ Random Dev Quote
+
+<p align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+</p>
+
+---
+
+## 🎯 Current Goal
+
+> **Becoming a job-ready AI Engineer by building strong foundations in Python, Machine Learning, Deep Learning, Generative AI and AI Engineering.**
+
+---
+
+⭐ **Thanks for visiting my profile!**
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=N-Theertha&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
