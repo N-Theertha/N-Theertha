@@ -7,7 +7,7 @@ I'm an aspiring **AI Engineer and Data Science professional** passionate about b
 * 🔭 I'm currently working on **AI Engineering learning projects**
 * 🌱 I'm currently learning **Python, Machine Learning, Deep Learning, NLP, Generative AI & AI Engineering**
 * 🤝 I'm looking to collaborate on **AI, Machine Learning and Data Science projects**
-* 👨‍💻 My projects are available on my **[Portfolio](https://portfolio.theerthapraveen311.workers.dev/)**
+* 👨‍💻 My projects are available on my **Github**((https://github.com/N-Theertha))**
 * 💬 Ask me about **Python, Machine Learning, Data Science, AI & Data Analysis**
 * 📚 Currently focused on strengthening my **Python and AI Engineering fundamentals**
 * ⚡ Fun fact: I enjoy turning data into practical AI solutions 🤖
@@ -86,7 +86,7 @@ Machine learning project involving exploratory data analysis, preprocessing, fea
 
 **Technologies:** Python • Pandas • NumPy • Scikit-learn • Regression • GridSearchCV
 
-### 🏦 Hausla Home Loan Risk Prediction
+### 🏦  Home Loan Risk Prediction
 
 Machine learning project focused on analyzing home-loan risk using data preprocessing and predictive modeling.
 
@@ -96,13 +96,13 @@ Machine learning project focused on analyzing home-loan risk using data preproce
 
 A collection of AI and data science projects developed during my learning journey and professional internship experience.
 
-👉 **[View All Projects](https://portfolio.theerthapraveen311.workers.dev/)**
+👉 **[View All Projects[]((https://github.com/N-Theertha)**
 
 ---
 
 ## 💼 Experience
 
-### AI Engineer Intern — Rubixe
+### AI Engineer Intern — Rubixe-AI Company 
 
 Worked on AI development and machine learning-oriented projects, with exposure to chatbot development and NLP concepts.
 
