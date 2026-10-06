@@ -133,11 +133,14 @@ Completed a practical data analytics job simulation involving data analysis and 
 
 
 ---
-
-## ✍️ Random Dev Quote
+## ✨ Motivation
 
 <p align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+> **“It always seems impossible until it’s done.”**
+>
+> — Nelson Mandela
+
 </p>
 
 ---
