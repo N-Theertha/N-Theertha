@@ -7,7 +7,7 @@ I'm an aspiring **AI Engineer and Data Science professional** passionate about b
 * 🔭 I'm currently working on **AI Engineering learning projects**
 * 🌱 I'm currently learning **Python, Machine Learning, Deep Learning, NLP, Generative AI & AI Engineering**
 * 🤝 I'm looking to collaborate on **AI, Machine Learning and Data Science projects**
-* 👨‍💻 My projects are available on my **Github**((https://github.com/N-Theertha))**
+* 👨‍💻 My projects are available on my **Github** https://github.com/N-Theertha
 * 💬 Ask me about **Python, Machine Learning, Data Science, AI & Data Analysis**
 * 📚 Currently focused on strengthening my **Python and AI Engineering fundamentals**
 * ⚡ Fun fact: I enjoy turning data into practical AI solutions 🤖
@@ -96,7 +96,7 @@ Machine learning project focused on analyzing home-loan risk using data preproce
 
 A collection of AI and data science projects developed during my learning journey and professional internship experience.
 
-👉 **[View All Projects[]((https://github.com/N-Theertha)**
+👉 **View All Projects https://github.com/N-Theertha
 
 ---
 
@@ -133,12 +133,18 @@ Completed a practical data analytics job simulation involving data analysis and 
 
 ---
 
-## 📊 Contribution Graph
+## 📈 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=N-Theertha&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=N-Theertha&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=N-Theertha&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 
+## 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=N-Theertha&theme=tokyonight&hide_border=true"/>
+</p>
 ---
 
 ## ✍️ Random Dev Quote
